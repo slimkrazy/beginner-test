@@ -1,3 +1,3 @@
-Hello Sam this has been added by branch b2
+Hello Sam this has been added in branch b1 and branch b2
 hello Kojo
 A new addition from branch b2
