@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello Sam
 hello Kojo
 Hello world 
@@ -5,3 +6,8 @@ Hello Ghana
 Hello Accra 
 Hello London
 Hello Lome 
+=======
+Hello Sam this has been added in branch b1 and branch b2
+hello Kojo
+A new addition from branch b2
+>>>>>>> 5c471a0fe97226e9851db03798381facdc426269
