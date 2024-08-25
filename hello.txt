@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Hello Sam
+Hello Stage 1
 hello Kojo
 Hello world 
 Hello Ghana
