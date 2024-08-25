@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello Stage 1
+=======
+Hello Stage
+>>>>>>> 031342864602973e398c6912ab6f7a81d0df5c88
 hello Kojo
 Hello world 
 Hello Ghana
