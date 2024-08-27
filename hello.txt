@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Hello Stage 4
-=======
-Hello Stage
->>>>>>> 031342864602973e398c6912ab6f7a81d0df5c88
-hello Kojo
-Hello world 
-Hello Ghana
-Hello Accra 
-Hello London
-Hello Lome 
-=======
-Hello Sam this has been added in branch b1 and branch b2
-hello Kojo
-A new addition from branch b2
->>>>>>> 5c471a0fe97226e9851db03798381facdc426269
+We are startuing again!
